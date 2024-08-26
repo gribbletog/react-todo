@@ -1,4 +1,4 @@
-# adobeio-samples-todoapp
+# appbuilder-samples-todoapp
 
 This App Builder app is a complete solution of the codelab [Bulding a Todo App with aio-lib-state and React Spectrum](https://adobeio-codelabs-react-spectrum-crud-adobedocs.hlx.page/?src=/README.html) which shows you how to use aio-lib-state as part of Runtime actions and how to bind React Spectrum components to Runtime actions.
 
